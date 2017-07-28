@@ -1,5 +1,6 @@
 <application>
   <component name="JavaRebelPlugin">
+    <option name="griffin" value="false" />
     <option name="ideInstallationStorage">
       <map>
         <entry key="com.zeroturnaround.jrebel.FormatVersion" value="7.0.0" />
@@ -9,5 +10,6 @@
         <entry key="com.zeroturnaround.jrebel.remoting.SyncOnBuild" value="true" />
       </map>
     </option>
+    <option name="javaRebelPath" value="$USER_HOME$/.jrebel/nightly_cache/201707280115/jrebel/jrebel.jar" />
   </component>
 </application>
