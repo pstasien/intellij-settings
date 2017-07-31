@@ -1,6 +1,7 @@
 <application>
   <component name="ScalaSettings">
+    <option name="COMPILE_SERVER_PORT" value="43723" />
     <option name="COMPILE_SERVER_ID" value="8449630f-171e-44d6-83b8-f81452d632da" />
-    <option name="COMPILE_SERVER_SDK" value="1.8" />
+    <option name="COMPILE_SERVER_SDK" value="IntelliJ IDEA Community Edition IC-171.4694.70" />
   </component>
 </application>
