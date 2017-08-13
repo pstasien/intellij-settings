@@ -5,10 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.proto" />
     <recentFileMasks>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
       <mask>*.g</mask>
       <mask>*.gra</mask>
       <mask>*.gradle</mask>
@@ -28,14 +26,17 @@
       <mask>*.java</mask>
       <mask>*b.</mask>
       <mask>*b</mask>
-      <mask>*</mask>
       <mask>*.b</mask>
       <mask>*.build</mask>
-      <mask>*.</mask>
       <mask>build</mask>
       <mask>build.g</mask>
       <mask>build.gra</mask>
       <mask>build.gradle</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.pr</mask>
+      <mask>*.prot</mask>
+      <mask>*.proto</mask>
     </recentFileMasks>
   </component>
 </application>
