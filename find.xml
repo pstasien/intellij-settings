@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="build.gradle" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.gra</mask>
       <mask>*.gradle</mask>
@@ -21,12 +21,10 @@
       <mask>build.grad</mask>
       <mask>java</mask>
       <mask>*java</mask>
-      <mask>*.java</mask>
       <mask>*b.</mask>
       <mask>*b</mask>
       <mask>*.b</mask>
       <mask>*.build</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.pr</mask>
       <mask>*.prot</mask>
@@ -37,6 +35,8 @@
       <mask>build.gr</mask>
       <mask>build.gra</mask>
       <mask>build.gradle</mask>
+      <mask>*</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
