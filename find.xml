@@ -18,6 +18,7 @@
       <mask>g</mask>
       <mask>gra</mask>
       <mask>gradle</mask>
+      <mask>b</mask>
       <mask>build.grad</mask>
       <mask>java</mask>
       <mask>*java</mask>
@@ -25,17 +26,16 @@
       <mask>*b</mask>
       <mask>*.b</mask>
       <mask>*.build</mask>
+      <mask>build</mask>
+      <mask>build.g</mask>
+      <mask>build.gra</mask>
+      <mask>build.gradle</mask>
       <mask>*.</mask>
       <mask>*.pr</mask>
       <mask>*.prot</mask>
       <mask>*.proto</mask>
-      <mask>b</mask>
-      <mask>build</mask>
-      <mask>build.g</mask>
-      <mask>build.gr</mask>
-      <mask>build.gra</mask>
-      <mask>build.gradle</mask>
       <mask>*</mask>
+      <mask>*.jav</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
