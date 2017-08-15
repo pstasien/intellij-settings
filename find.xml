@@ -1,24 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.gra</mask>
-      <mask>*.gradle</mask>
-      <mask>grad</mask>
-      <mask>gradle.set</mask>
-      <mask>gradle.sett</mask>
-      <mask>gradle.settings</mask>
-      <mask>gradle.</mask>
-      <mask>gradle*</mask>
       <mask>g</mask>
       <mask>gra</mask>
       <mask>gradle</mask>
-      <mask>b</mask>
       <mask>build.grad</mask>
       <mask>java</mask>
       <mask>*java</mask>
@@ -26,17 +14,26 @@
       <mask>*b</mask>
       <mask>*.b</mask>
       <mask>*.build</mask>
+      <mask>*.pr</mask>
+      <mask>*.prot</mask>
+      <mask>*.proto</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>b</mask>
       <mask>build</mask>
       <mask>build.g</mask>
       <mask>build.gra</mask>
       <mask>build.gradle</mask>
-      <mask>*.</mask>
-      <mask>*.pr</mask>
-      <mask>*.prot</mask>
-      <mask>*.proto</mask>
-      <mask>*</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
+      <mask>settings</mask>
+      <mask>gradle.settings</mask>
+      <mask>set</mask>
+      <mask>sett</mask>
+      <mask>settings.</mask>
+      <mask>settings.proper</mask>
+      <mask>settings.properties</mask>
     </recentFileMasks>
   </component>
 </application>
