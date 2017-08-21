@@ -2,12 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="build.gradle" />
     <recentFileMasks>
-      <mask>gra</mask>
-      <mask>gradle</mask>
-      <mask>build.grad</mask>
-      <mask>java</mask>
       <mask>*java</mask>
       <mask>*b.</mask>
       <mask>*b</mask>
@@ -33,6 +32,10 @@
       <mask>build</mask>
       <mask>build.g</mask>
       <mask>build.gra</mask>
+      <mask>luci</mask>
+      <mask>lucid-c</mask>
+      <mask>lucid-clie</mask>
+      <mask>lucid-client</mask>
       <mask>build.gradle</mask>
     </recentFileMasks>
   </component>
