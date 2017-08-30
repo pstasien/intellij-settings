@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.prop*" />
     <recentFileMasks>
       <mask>*.prot</mask>
       <mask>*.proto</mask>
@@ -26,15 +25,15 @@
       <mask>lucid-clie</mask>
       <mask>lucid-client</mask>
       <mask>build.gradle</mask>
-      <mask>*</mask>
-      <mask>*.json</mask>
       <mask>*.jso</mask>
       <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.prop</mask>
       <mask>*.prop*</mask>
+      <mask>*</mask>
+      <mask>*.j</mask>
+      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>
