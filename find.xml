@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="build.gradle" />
     <recentFileMasks>
-      <mask>*.prot</mask>
       <mask>*.proto</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
@@ -15,16 +15,12 @@
       <mask>settings.</mask>
       <mask>settings.proper</mask>
       <mask>settings.properties</mask>
-      <mask>b</mask>
       <mask>buil</mask>
-      <mask>build</mask>
-      <mask>build.g</mask>
       <mask>build.gra</mask>
       <mask>luci</mask>
       <mask>lucid-c</mask>
       <mask>lucid-clie</mask>
       <mask>lucid-client</mask>
-      <mask>build.gradle</mask>
       <mask>*.jso</mask>
       <mask>*.js</mask>
       <mask>*.</mask>
@@ -34,6 +30,11 @@
       <mask>*</mask>
       <mask>*.j</mask>
       <mask>*.json</mask>
+      <mask>b</mask>
+      <mask>build</mask>
+      <mask>build.g</mask>
+      <mask>build.grad</mask>
+      <mask>build.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
