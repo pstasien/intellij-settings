@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
-      <mask>*.proto</mask>
-      <mask>*.jav</mask>
-      <mask>settings</mask>
-      <mask>gradle.settings</mask>
       <mask>set</mask>
       <mask>sett</mask>
       <mask>settings.</mask>
@@ -35,6 +31,10 @@
       <mask>build.gradle</mask>
       <mask>*</mask>
       <mask>*.java</mask>
+      <mask>*.g</mask>
+      <mask>*.gra</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
