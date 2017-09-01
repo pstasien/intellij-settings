@@ -15,8 +15,8 @@
     <option name="BLANK_LINES_BEFORE_PACKAGE" value="1" />
     <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
     <option name="SPACE_BEFORE_ANNOTATION_ARRAY_INITIALIZER_LBRACE" value="true" />
-    <option name="CALL_PARAMETERS_WRAP" value="2" />
-    <option name="METHOD_PARAMETERS_WRAP" value="2" />
+    <option name="CALL_PARAMETERS_WRAP" value="1" />
+    <option name="METHOD_PARAMETERS_WRAP" value="1" />
     <option name="IF_BRACE_FORCE" value="3" />
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
