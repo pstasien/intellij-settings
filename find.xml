@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="build.gradle" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*java</mask>
       <mask>*b.</mask>
@@ -16,10 +16,8 @@
       <mask>*.prot</mask>
       <mask>*.proto</mask>
       <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*</mask>
       <mask>settings</mask>
       <mask>gradle.settings</mask>
       <mask>set</mask>
@@ -37,6 +35,8 @@
       <mask>lucid-clie</mask>
       <mask>lucid-client</mask>
       <mask>build.gradle</mask>
+      <mask>*</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
