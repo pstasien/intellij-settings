@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.proto" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>sett</mask>
       <mask>settings.</mask>
@@ -24,17 +24,17 @@
       <mask>*.properties</mask>
       <mask>*.b</mask>
       <mask>*.bg</mask>
-      <mask>*.g</mask>
       <mask>*.gralde</mask>
       <mask>*.grald</mask>
       <mask>*.gral</mask>
-      <mask>*.gra</mask>
       <mask>*.grd</mask>
       <mask>*.grad</mask>
-      <mask>*.gradle</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.proto</mask>
+      <mask>*.g</mask>
+      <mask>*.gra</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
