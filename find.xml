@@ -5,19 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.proto" />
     <recentFileMasks>
-      <mask>*.pr</mask>
-      <mask>*.prot</mask>
-      <mask>*.proto</mask>
-      <mask>*.jav</mask>
-      <mask>*.j</mask>
-      <mask>settings</mask>
-      <mask>gradle.settings</mask>
-      <mask>set</mask>
-      <mask>sett</mask>
-      <mask>settings.</mask>
-      <mask>settings.proper</mask>
-      <mask>settings.properties</mask>
       <mask>b</mask>
       <mask>buil</mask>
       <mask>build</mask>
@@ -29,13 +18,25 @@
       <mask>lucid-client</mask>
       <mask>build.gradle</mask>
       <mask>*.java</mask>
+      <mask>*.proper</mask>
+      <mask>*.properties</mask>
+      <mask>*.b</mask>
+      <mask>*.bg</mask>
+      <mask>*.gralde</mask>
+      <mask>*.grald</mask>
+      <mask>*.gral</mask>
+      <mask>*.grd</mask>
+      <mask>*.grad</mask>
       <mask>*.g</mask>
       <mask>*.gra</mask>
       <mask>*.gradle</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.proper</mask>
-      <mask>*.properties</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.prot</mask>
+      <mask>*.proto</mask>
     </recentFileMasks>
   </component>
 </application>
