@@ -5,25 +5,13 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>luci</mask>
-      <mask>lucid-c</mask>
-      <mask>lucid-clie</mask>
-      <mask>lucid-client</mask>
-      <mask>build.gradle</mask>
-      <mask>*.proper</mask>
-      <mask>*.properties</mask>
-      <mask>*.b</mask>
-      <mask>*.bg</mask>
-      <mask>*.gralde</mask>
       <mask>*.grald</mask>
       <mask>*.gral</mask>
       <mask>*.grd</mask>
       <mask>*.grad</mask>
       <mask>*.g</mask>
       <mask>*.gra</mask>
-      <mask>*.gradle</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
@@ -37,6 +25,17 @@
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.java</mask>
+      <mask>*.ava</mask>
+      <mask>*.gava</mask>
+      <mask>*.grava</mask>
+      <mask>*.graava</mask>
+      <mask>*.gradava</mask>
+      <mask>*.gradleava</mask>
+      <mask>*.gradle</mask>
+      <mask>*.s</mask>
+      <mask>*.st</mask>
+      <mask>*.set</mask>
+      <mask>*.settings</mask>
     </recentFileMasks>
   </component>
 </application>
