@@ -5,14 +5,13 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>luci</mask>
       <mask>lucid-c</mask>
       <mask>lucid-clie</mask>
       <mask>lucid-client</mask>
       <mask>build.gradle</mask>
-      <mask>*.java</mask>
       <mask>*.proper</mask>
       <mask>*.properties</mask>
       <mask>*.b</mask>
@@ -32,11 +31,12 @@
       <mask>*.proto</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*'</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
