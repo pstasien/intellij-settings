@@ -6,12 +6,9 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.grald</mask>
       <mask>*.gral</mask>
       <mask>*.grd</mask>
       <mask>*.grad</mask>
-      <mask>*.g</mask>
-      <mask>*.gra</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
@@ -31,11 +28,14 @@
       <mask>*.graava</mask>
       <mask>*.gradava</mask>
       <mask>*.gradleava</mask>
-      <mask>*.gradle</mask>
       <mask>*.s</mask>
       <mask>*.st</mask>
       <mask>*.set</mask>
       <mask>*.settings</mask>
+      <mask>*.g</mask>
+      <mask>*.gra</mask>
+      <mask>*.gradl</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
