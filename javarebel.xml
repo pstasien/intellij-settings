@@ -5,7 +5,7 @@
         <entry key="com.zeroturnaround.jrebel.FormatVersion" value="7.0.0" />
         <entry key="com.zeroturnaround.jrebel.ide.RemoteServerIdCounter" value="2" />
         <entry key="com.zeroturnaround.jrebel.ide.RemoteServers" value="{&quot;RemoteServers&quot;:[{&quot;syncEnabled&quot;:&quot;true&quot;,&quot;serverAuthenticationPassword&quot;:&quot;&quot;,&quot;httpBasicAuthenticationUser&quot;:&quot;&quot;,&quot;httpBasicAuthenticationPassword&quot;:&quot;&quot;,&quot;name&quot;:&quot;windows conn&quot;,&quot;useServerAuthentication&quot;:&quot;false&quot;,&quot;deleteFilesOnServer&quot;:&quot;true&quot;,&quot;id&quot;:&quot;1&quot;,&quot;useHttpBasicAuthentication&quot;:&quot;false&quot;,&quot;url&quot;:&quot;http:\/\/192.168.1.168:5010&quot;},{&quot;syncEnabled&quot;:&quot;true&quot;,&quot;serverAuthenticationPassword&quot;:&quot;&quot;,&quot;httpBasicAuthenticationUser&quot;:&quot;&quot;,&quot;httpBasicAuthenticationPassword&quot;:&quot;&quot;,&quot;name&quot;:&quot;windows api&quot;,&quot;useServerAuthentication&quot;:&quot;false&quot;,&quot;deleteFilesOnServer&quot;:&quot;true&quot;,&quot;id&quot;:&quot;2&quot;,&quot;useHttpBasicAuthentication&quot;:&quot;false&quot;,&quot;url&quot;:&quot;http:\/\/192.168.1.168:5011&quot;}]}" />
-        <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="7.0.12" />
+        <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="7.0.15" />
         <entry key="com.zeroturnaround.jrebel.remoting.SyncOnBuild" value="true" />
         <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="7.1.0" />
         <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="2" />
