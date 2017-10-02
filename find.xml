@@ -6,10 +6,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.gral</mask>
-      <mask>*.grd</mask>
-      <mask>*.grad</mask>
-      <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
       <mask>*.prot</mask>
@@ -36,6 +32,10 @@
       <mask>*.gradle</mask>
       <mask>*</mask>
       <mask>*.java</mask>
+      <mask>log</mask>
+      <mask>log4</mask>
+      <mask>log4j</mask>
+      <mask>log4j*</mask>
     </recentFileMasks>
   </component>
 </application>
