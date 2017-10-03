@@ -7,15 +7,9 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
-      <mask>*.prot</mask>
-      <mask>*.proto</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
       <mask>*'</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.ava</mask>
@@ -32,12 +26,19 @@
       <mask>*.gra</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
-      <mask>*</mask>
-      <mask>*.java</mask>
       <mask>log</mask>
       <mask>log4</mask>
       <mask>log4j</mask>
       <mask>log4j*</mask>
+      <mask>*.p</mask>
+      <mask>*.prop</mask>
+      <mask>*.prop*</mask>
+      <mask>*.l</mask>
+      <mask>*.log</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
