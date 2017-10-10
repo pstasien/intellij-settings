@@ -5,12 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="build.gradle" />
     <recentFileMasks>
-      <mask>*'</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.ava</mask>
-      <mask>*.gava</mask>
       <mask>*.grava</mask>
       <mask>*.graava</mask>
       <mask>*.gradava</mask>
@@ -36,6 +32,11 @@
       <mask>*.</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>build</mask>
+      <mask>build.g</mask>
+      <mask>build.gra</mask>
+      <mask>build.gradl</mask>
+      <mask>build.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
