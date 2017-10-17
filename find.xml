@@ -5,13 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="agent.properties" />
     <recentFileMasks>
-      <mask>*.grava</mask>
-      <mask>*.graava</mask>
-      <mask>*.gradava</mask>
-      <mask>*.gradleava</mask>
-      <mask>*.s</mask>
-      <mask>*.st</mask>
       <mask>*.set</mask>
       <mask>*.settings</mask>
       <mask>*.g</mask>
@@ -36,6 +31,12 @@
       <mask>build.gra</mask>
       <mask>build.gradl</mask>
       <mask>build.gradle</mask>
+      <mask>uild.gradle</mask>
+      <mask>p</mask>
+      <mask>pr</mask>
+      <mask>proper</mask>
+      <mask>properties</mask>
+      <mask>agent.properties</mask>
     </recentFileMasks>
   </component>
 </application>
