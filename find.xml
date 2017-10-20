@@ -7,8 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.set</mask>
-      <mask>*.settings</mask>
       <mask>*.g</mask>
       <mask>*.gra</mask>
       <mask>*.gradl</mask>
@@ -22,7 +20,6 @@
       <mask>*.prop*</mask>
       <mask>*.l</mask>
       <mask>*.log</mask>
-      <mask>*.</mask>
       <mask>*.jav</mask>
       <mask>build</mask>
       <mask>build.g</mask>
@@ -36,6 +33,9 @@
       <mask>properties</mask>
       <mask>agent.properties</mask>
       <mask>*</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
