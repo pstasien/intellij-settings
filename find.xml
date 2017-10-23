@@ -5,12 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*Config*.java" />
     <recentFileMasks>
-      <mask>*.gradl</mask>
-      <mask>*.gradle</mask>
-      <mask>log</mask>
-      <mask>log4</mask>
       <mask>log4j</mask>
       <mask>log4j*</mask>
       <mask>*.prop</mask>
@@ -18,7 +14,6 @@
       <mask>*.l</mask>
       <mask>*.log</mask>
       <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>build</mask>
       <mask>build.g</mask>
       <mask>build.gra</mask>
@@ -30,13 +25,18 @@
       <mask>proper</mask>
       <mask>properties</mask>
       <mask>agent.properties</mask>
-      <mask>*</mask>
       <mask>*.kpy</mask>
       <mask>*.kp</mask>
       <mask>*.k</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>*.java</mask>
+      <mask>*</mask>
+      <mask>*C</mask>
+      <mask>*Config</mask>
+      <mask>*Config*</mask>
+      <mask>*Config*.java</mask>
     </recentFileMasks>
   </component>
 </application>
