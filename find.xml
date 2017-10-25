@@ -2,24 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*Security*.java" />
     <recentFileMasks>
-      <mask>log4j</mask>
-      <mask>log4j*</mask>
-      <mask>*.prop</mask>
-      <mask>*.prop*</mask>
-      <mask>*.l</mask>
-      <mask>*.log</mask>
-      <mask>*.jav</mask>
-      <mask>build</mask>
-      <mask>build.g</mask>
-      <mask>build.gra</mask>
-      <mask>build.gradl</mask>
-      <mask>build.gradle</mask>
-      <mask>uild.gradle</mask>
       <mask>p</mask>
       <mask>pr</mask>
       <mask>proper</mask>
@@ -35,8 +20,21 @@
       <mask>*Config</mask>
       <mask>*Config*</mask>
       <mask>*Config*.java</mask>
-      <mask>*</mask>
       <mask>*.java</mask>
+      <mask>*</mask>
+      <mask>*S</mask>
+      <mask>*Se</mask>
+      <mask>*Securi</mask>
+      <mask>*Security</mask>
+      <mask>*Security*&gt;java</mask>
+      <mask>*Security*&gt;jav</mask>
+      <mask>*Security*&gt;ja</mask>
+      <mask>*Security*&gt;j</mask>
+      <mask>*Security*&gt;.j</mask>
+      <mask>*Security*&gt;.</mask>
+      <mask>*Security*&gt;</mask>
+      <mask>*Security*</mask>
+      <mask>*Security*.java</mask>
     </recentFileMasks>
   </component>
 </application>
