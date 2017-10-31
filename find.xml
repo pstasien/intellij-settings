@@ -5,9 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*(.java" />
     <recentFileMasks>
-      <mask>p</mask>
-      <mask>pr</mask>
       <mask>proper</mask>
       <mask>properties</mask>
       <mask>agent.properties</mask>
@@ -36,6 +35,8 @@
       <mask>*Security*&gt;</mask>
       <mask>*Security*</mask>
       <mask>*Security*.java</mask>
+      <mask>*(</mask>
+      <mask>*(.java</mask>
     </recentFileMasks>
   </component>
 </application>
