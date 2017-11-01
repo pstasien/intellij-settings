@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.proto" />
     <recentFileMasks>
       <mask>*.kpy</mask>
       <mask>*.kp</mask>
@@ -28,13 +30,13 @@
       <mask>*Security*.java</mask>
       <mask>*(</mask>
       <mask>*(.java</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.pro</mask>
-      <mask>*.proto</mask>
       <mask>*</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.proto</mask>
     </recentFileMasks>
   </component>
 </application>
