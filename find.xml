@@ -5,11 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="build.gradle" />
     <recentFileMasks>
-      <mask>p</mask>
-      <mask>pr</mask>
-      <mask>proper</mask>
-      <mask>properties</mask>
       <mask>agent.properties</mask>
       <mask>*.kpy</mask>
       <mask>*.kp</mask>
@@ -36,6 +33,10 @@
       <mask>*Security*&gt;</mask>
       <mask>*Security*</mask>
       <mask>*Security*.java</mask>
+      <mask>build.g</mask>
+      <mask>build.gra</mask>
+      <mask>build.gradl</mask>
+      <mask>build.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
