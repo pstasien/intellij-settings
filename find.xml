@@ -5,8 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.kpy</mask>
       <mask>*.kp</mask>
       <mask>*.k</mask>
       <mask>*.py</mask>
@@ -32,10 +32,11 @@
       <mask>*.pro</mask>
       <mask>*</mask>
       <mask>*.jav</mask>
-      <mask>*.java</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.proto</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
