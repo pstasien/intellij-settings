@@ -5,16 +5,11 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.sh" />
     <recentFileMasks>
-      <mask>*Security*&gt;.</mask>
-      <mask>*Security*&gt;</mask>
-      <mask>*Security*</mask>
-      <mask>*Security*.java</mask>
       <mask>*(</mask>
       <mask>*(.java</mask>
       <mask>*.pro</mask>
-      <mask>*</mask>
       <mask>*.jav</mask>
       <mask>*.proto</mask>
       <mask>*.j</mask>
@@ -22,7 +17,6 @@
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradle</mask>
-      <mask>*.</mask>
       <mask>*.p[r</mask>
       <mask>*.p[</mask>
       <mask>*.p</mask>
@@ -36,7 +30,13 @@
       <mask>*.gradle*</mask>
       <mask>*.jav*</mask>
       <mask>*.java*</mask>
+      <mask>*.c</mask>
+      <mask>*.cmd</mask>
+      <mask>*.cm</mask>
       <mask>*.java</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.sh</mask>
     </recentFileMasks>
   </component>
 </application>
