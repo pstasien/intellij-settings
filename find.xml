@@ -5,15 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sh" />
+    <option name="FILE_MASK" value="*TrimmingProps*.java" />
     <recentFileMasks>
-      <mask>*(</mask>
-      <mask>*(.java</mask>
-      <mask>*.pro</mask>
-      <mask>*.jav</mask>
-      <mask>*.proto</mask>
-      <mask>*.j</mask>
-      <mask>*.g</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradle</mask>
@@ -34,9 +27,16 @@
       <mask>*.cmd</mask>
       <mask>*.cm</mask>
       <mask>*.java</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.sh</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*COnfig</mask>
+      <mask>*COnfig*</mask>
+      <mask>*COnfig*.</mask>
+      <mask>*COnfig*.java</mask>
+      <mask>*Cnfig*.java</mask>
+      <mask>*Config*.java</mask>
+      <mask>*TrimmingProps*.java</mask>
     </recentFileMasks>
   </component>
 </application>
