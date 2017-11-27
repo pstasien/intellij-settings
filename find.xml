@@ -5,21 +5,11 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="build.gradle" />
     <recentFileMasks>
-      <mask>agent.properties</mask>
-      <mask>*.kpy</mask>
-      <mask>*.kp</mask>
-      <mask>*.k</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.py</mask>
       <mask>*C</mask>
       <mask>*Config</mask>
       <mask>*Config*</mask>
       <mask>*Config*.java</mask>
-      <mask>*.java</mask>
-      <mask>*</mask>
       <mask>*S</mask>
       <mask>*Se</mask>
       <mask>*Securi</mask>
@@ -33,10 +23,19 @@
       <mask>*Security*&gt;</mask>
       <mask>*Security*</mask>
       <mask>*Security*.java</mask>
-      <mask>build.g</mask>
-      <mask>build.gra</mask>
-      <mask>build.gradl</mask>
-      <mask>build.gradle</mask>
+      <mask>*(</mask>
+      <mask>*(.java</mask>
+      <mask>*.j</mask>
+      <mask>*.p</mask>
+      <mask>*.propto</mask>
+      <mask>*.propt</mask>
+      <mask>*.prop</mask>
+      <mask>*.pro</mask>
+      <mask>*.proto</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
