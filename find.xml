@@ -6,8 +6,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*C</mask>
-      <mask>*Config</mask>
       <mask>*Config*</mask>
       <mask>*Config*.java</mask>
       <mask>*S</mask>
@@ -29,11 +27,13 @@
       <mask>*.p</mask>
       <mask>*.propto</mask>
       <mask>*.propt</mask>
-      <mask>*.prop</mask>
       <mask>*.pro</mask>
       <mask>*.proto</mask>
-      <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.propr</mask>
+      <mask>*.prop</mask>
+      <mask>*.prop*</mask>
+      <mask>*</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
     </recentFileMasks>
