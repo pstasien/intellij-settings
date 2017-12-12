@@ -5,8 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sh" />
     <recentFileMasks>
-      <mask>*Config</mask>
       <mask>*Config*</mask>
       <mask>*Config*.java</mask>
       <mask>*S</mask>
@@ -32,10 +32,11 @@
       <mask>*.proto</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>*</mask>
+      <mask>*.sh</mask>
     </recentFileMasks>
   </component>
 </application>
