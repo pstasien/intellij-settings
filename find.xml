@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Config.java" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*Security*&gt;jav</mask>
       <mask>*Security*&gt;ja</mask>
       <mask>*Security*&gt;j</mask>
       <mask>*Security*&gt;.j</mask>
@@ -21,20 +20,21 @@
       <mask>*.prop</mask>
       <mask>*.pro</mask>
       <mask>*.proto</mask>
-      <mask>*.jav</mask>
       <mask>*.p</mask>
       <mask>*.py</mask>
       <mask>*.sh</mask>
       <mask>*.jaa</mask>
       <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.g</mask>
       <mask>*.gradle</mask>
       <mask>*.</mask>
-      <mask>*</mask>
       <mask>*C</mask>
       <mask>*Config</mask>
       <mask>*Config.java</mask>
+      <mask>*Config.jav</mask>
+      <mask>*</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
