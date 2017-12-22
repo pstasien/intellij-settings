@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="gradle.properties" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
       <mask>*Security*&gt;</mask>
       <mask>*Security*</mask>
@@ -27,7 +27,6 @@
       <mask>*.gradle</mask>
       <mask>*.j</mask>
       <mask>*.java</mask>
-      <mask>*.properties</mask>
       <mask>gar.properties</mask>
       <mask>gard.properties</mask>
       <mask>gardle.properties</mask>
@@ -35,6 +34,7 @@
       <mask>g.properties</mask>
       <mask>gra.properties</mask>
       <mask>gradle.properties</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
