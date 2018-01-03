@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*Securi</mask>
       <mask>*Security</mask>
@@ -24,16 +25,16 @@
       <mask>*.pro</mask>
       <mask>*.proto</mask>
       <mask>*.jav</mask>
-      <mask>*.p</mask>
-      <mask>*.py</mask>
-      <mask>*</mask>
       <mask>*.sh</mask>
       <mask>*.jaa</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
-      <mask>*.</mask>
       <mask>*.g</mask>
       <mask>*.gradle</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
