@@ -5,11 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test.java" />
     <recentFileMasks>
-      <mask>*Securi</mask>
-      <mask>*Security</mask>
-      <mask>*Security*&gt;java</mask>
-      <mask>*Security*&gt;jav</mask>
       <mask>*Security*&gt;ja</mask>
       <mask>*Security*&gt;j</mask>
       <mask>*Security*&gt;.j</mask>
@@ -32,10 +29,14 @@
       <mask>*.java</mask>
       <mask>*.g</mask>
       <mask>*.gradle</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>*</mask>
+      <mask>*T</mask>
+      <mask>*Test</mask>
+      <mask>*Test.</mask>
+      <mask>*Test.java</mask>
     </recentFileMasks>
   </component>
 </application>
