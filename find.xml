@@ -5,9 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="FILE_MASK" value="*.sh" />
     <recentFileMasks>
-      <mask>*.propto</mask>
       <mask>*.propt</mask>
       <mask>*.prop</mask>
       <mask>*.pro</mask>
@@ -29,7 +28,6 @@
       <mask>*.proper</mask>
       <mask>*.properties</mask>
       <mask>*</mask>
-      <mask>*.sh</mask>
       <mask>*.j</mask>
       <mask>*.java</mask>
       <mask>*.</mask>
@@ -37,6 +35,8 @@
       <mask>*.gra</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
+      <mask>*.s</mask>
+      <mask>*.sh</mask>
     </recentFileMasks>
   </component>
 </application>
