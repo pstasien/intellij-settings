@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*gradle*" />
     <recentFileMasks>
-      <mask>gar.properties</mask>
       <mask>gard.properties</mask>
       <mask>gardle.properties</mask>
       <mask>.properties</mask>
@@ -35,6 +34,7 @@
       <mask>*Module*</mask>
       <mask>build.gradle</mask>
       <mask>*.java</mask>
+      <mask>*gradle*</mask>
     </recentFileMasks>
   </component>
 </application>
