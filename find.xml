@@ -4,6 +4,18 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
+      <mask>*(.java</mask>
+      <mask>*.propto</mask>
+      <mask>*.propt</mask>
+      <mask>*.prop</mask>
+      <mask>*.pro</mask>
+      <mask>*.proto</mask>
+      <mask>*.jav</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
+      <mask>*.jaa</mask>
+      <mask>*.ja</mask>
+      <mask>gar.properties</mask>
       <mask>gard.properties</mask>
       <mask>gardle.properties</mask>
       <mask>.properties</mask>
@@ -11,29 +23,17 @@
       <mask>gra.properties</mask>
       <mask>gradle.properties</mask>
       <mask>*.grad</mask>
+      <mask>*.gradle</mask>
+      <mask>*.g</mask>
       <mask>*.pr</mask>
       <mask>*.proper</mask>
       <mask>*.properties</mask>
-      <mask>*.j</mask>
-      <mask>*.gradl</mask>
-      <mask>*.s</mask>
-      <mask>*.sh</mask>
-      <mask>*.proto</mask>
-      <mask>*.g</mask>
-      <mask>*.gra</mask>
-      <mask>*.gradle</mask>
-      <mask>*.mod</mask>
-      <mask>*.modul</mask>
-      <mask>*.module</mask>
-      <mask>*.</mask>
       <mask>*</mask>
-      <mask>*M</mask>
-      <mask>*Mo</mask>
-      <mask>*Module</mask>
-      <mask>*Module*</mask>
-      <mask>build.gradle</mask>
+      <mask>*.</mask>
+      <mask>*.sh</mask>
+      <mask>*.j</mask>
       <mask>*.java</mask>
-      <mask>*gradle*</mask>
+      <mask>build.gradle</mask>
     </recentFileMasks>
   </component>
 </application>

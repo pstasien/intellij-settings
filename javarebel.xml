@@ -12,5 +12,6 @@
       </map>
     </option>
     <option name="javaRebelPath" value="$USER_HOME$/.jrebel/nightly_cache/201707280115/jrebel/jrebel.jar" />
+    <option name="settingsStartupRadioSelection" value="1" />
   </component>
 </application>
