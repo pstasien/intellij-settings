@@ -8,6 +8,9 @@
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99999999" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999999" />
   </JavaCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <codeStyleSettings language="Groovy">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
