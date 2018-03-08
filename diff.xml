@@ -1,4 +1,5 @@
 <application>
+  <component name="DiffManager" COMPARISON_POLICY="Ignore spaces" />
   <component name="DiffSettings">
     <option name="PLACES_MAP">
       <entry key="Default">
@@ -22,6 +23,9 @@
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
+      <entry key="CommitDialog">
+        <PlaceSettings />
+      </entry>
       <entry key="Default">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
