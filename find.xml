@@ -32,8 +32,8 @@
       <mask>*.sh</mask>
       <mask>*.j</mask>
       <mask>build.gradle</mask>
-      <mask>*.java</mask>
       <mask>*.gradle</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
