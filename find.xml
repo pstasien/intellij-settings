@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*(.java</mask>
       <mask>*.propto</mask>
@@ -27,13 +28,13 @@
       <mask>*.pr</mask>
       <mask>*.proper</mask>
       <mask>*.properties</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.sh</mask>
       <mask>*.j</mask>
       <mask>build.gradle</mask>
       <mask>*.gradle</mask>
       <mask>*.java</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
