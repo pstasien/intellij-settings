@@ -1,12 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="grpc" type="Bash" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="txt_here_after_build" type="PLAIN_TEXT" />
+      <mapping pattern="grpc" type="Bash" />
     </extensionMap>
   </component>
 </application>
